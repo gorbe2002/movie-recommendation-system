@@ -1,1 +1,2 @@
-# movie-recommendation-system
+# Movie Recommendation System
+This project will be a movie recommendation system based on the type of movies that users watch. This is a great tool for movie and streaming companies to have to ensure that their customers stay happy on their platform. I will be using the small version of the “MovieLens Latest Dataset” from GroupLens, which includes 4 different csv files, 100,836 ratings, and 3,683 tags for 9,742 movies by 610 users between March 29, 1996 and September 24, 2018. Out of the 4 csv files, I will be using 2 of them named “ratings.csv” and “movies.csv”.
